@@ -4,9 +4,9 @@ export default function Header({ serviceStatus, llmStatus }) {
   return (
     <header className="header">
       <div className="header-brand">
-        <div className="header-logo">QF</div>
+        <div className="header-logo">SE</div>
         <div>
-          <div className="header-title">QueryForge</div>
+          <div className="header-title"> Multi-Cloud Query Cost Analyzer & Recommendation System</div>
           <div className="header-sub">SQL Optimization Engine</div>
         </div>
       </div>
